@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.0">
+	<name>Modern Kirby Theme</name>
+	<version>1.4</version>
+	<release_date>201911222300</release_date>
+	<coder>StefLipp</coder>
+	<short_description>A Kirby HBC theme</short_description>
+	<long_description>This is a theme for HBC based on Material Design and Kirby..
+
+This theme features cards with clean shadows, and colorful imagery. It uses the font Roboto, which is also used in Android 5.0 and higher. This theme looks best when the Wii is set to display in 4:3.
+</long_description>
+</app>
